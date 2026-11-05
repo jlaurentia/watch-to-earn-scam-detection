@@ -106,16 +106,6 @@ The reviews were collected from publicly accessible Google Play application revi
 
 The dataset includes reviews from 15 selected watch-to-earn applications.
 
-## Citation
-
-If you use this dataset in academic research, please cite the associated research article once its publication details are available.
-
-**Article title:** *BERT Models for Watch-to-Earn Scam Detection in App Reviews*
-
-**Authors:** Jessica Laurentia Tedja and Satria Adi Nugraha.
-
-**Publication:** To be updated upon publication.
-
 ## Contact
 
 For research-related questions, please contact the corresponding author through the contact information provided in the associated publication.
