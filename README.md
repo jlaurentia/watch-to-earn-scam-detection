@@ -16,7 +16,7 @@ The dataset is divided into two classification tasks:
 
 ### Level 1: Binary Scam Detection
 
-**File:** `level1_reviews_text_labels.csv`
+**File:** `level1_reviews.csv`
 
 This dataset contains 19,336 reviews classified into two categories:
 
@@ -28,7 +28,7 @@ This dataset contains 19,336 reviews classified into two categories:
 
 ### Level 2: Behavioral Scam Indicator Classification
 
-**File:** `level2_scam_indicators_text_labels.csv`
+**File:** `level2_scam_indicators.csv`
 
 This dataset contains 4,975 reviews labeled as Scam at Level 1. Each review is assigned one primary behavioral indicator.
 
