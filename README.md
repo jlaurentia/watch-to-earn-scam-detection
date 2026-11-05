@@ -120,6 +120,8 @@ The dataset was collected from user reviews of 15 applications available on Goog
 14. Gold Drama
 15. Tik Cash
 
+The inclusion of an application in this dataset does not imply that the application is fraudulent. This study focuses on identifying potential scam-related indicators reported in user reviews rather than establishing the legitimacy of individual applications.
+
 The source data were collected through Google Play review scraping. Following data preparation, duplicate removal, and manual annotation, the final research dataset contains 19,336 unique reviews.
 
 The dataset is provided for research on potential scam-related experiences and behavioral indicators in Indonesian application reviews.
