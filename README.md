@@ -102,9 +102,27 @@ The dataset should not be used as the sole basis for determining whether an appl
 
 ## Data Source
 
-The reviews were collected from publicly accessible Google Play application review pages.
+The dataset was collected from user reviews of 15 applications available on Google Play:
 
-The dataset includes reviews from 15 selected watch-to-earn applications.
+1. Bling story
+2. Free Reels
+3. Snack Video
+4. Melolo
+5. Drama Wave
+6. Story Blast
+7. Snap Dramas
+8. Short Max
+9. Fomi
+10. Cash Drama
+11. Inbox Dollar
+12. Lucky Money Cash
+13. Star Short
+14. Gold Drama
+15. Tik Cash
+
+The source data were collected through Google Play review scraping. Following data preparation, duplicate removal, and manual annotation, the final research dataset contains 19,336 unique reviews.
+
+The dataset is provided for research on potential scam-related experiences and behavioral indicators in Indonesian application reviews.
 
 ## Contact
 
